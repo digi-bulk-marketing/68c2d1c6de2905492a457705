@@ -1,9 +1,14 @@
 # Tez Connect
 
-- Rebranding ID: 68c2d1c6de2905492a457705
-- User ID: 68c2d000de2905492a453379
-- App name: Tez Connect
-- Product name: Button Sender
+Tez Connect by Tez Connect.
 
-App logo: https://api.digibulkmarketing.com/media/uploads/image/6277a0f0-0a9e-4a85-aadf-8a6d90dbf89f.png
-![App Logo](https://api.digibulkmarketing.com/media/uploads/image/6277a0f0-0a9e-4a85-aadf-8a6d90dbf89f.png)
+## Installation
+
+### Windows
+1. Download the latest **`.exe`** installer from the [Releases page](https://github.com/digi-bulk-marketing/68c2d1c6de2905492a457705/releases/latest).
+2. Run the installer and follow the prompts.
+3. Launch **Tez Connect** from the Start menu.
+
+## Updates
+
+Download the newest installer from the [Releases page](https://github.com/digi-bulk-marketing/68c2d1c6de2905492a457705/releases/latest) and reinstall.
